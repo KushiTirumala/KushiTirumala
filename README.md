@@ -47,7 +47,7 @@ Passionate about analytics, experimentation, predictive modeling, and secure sys
 
 ---
 
-# 🌟 Featured Projects
+#  Featured Projects
 
 ---
 
