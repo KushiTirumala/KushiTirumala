@@ -34,4 +34,4 @@ Subnet scanner detecting exposed services and analyzing network security risk le
 
 ---
 
-Open to Data Analyst, Data Science, and Cybersecurity Internship Opportunities
+Open to Data Analyst, Data Science, and Cybersecurity Opportunities
