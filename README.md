@@ -1,25 +1,37 @@
 # Tirumala Kushi Raghava
 
-Data Analyst | SQL • Python • Power BI • Statistical Analysis • Machine Learning
+Data Analyst | Data Science | Cybersecurity Analytics  
+SQL • Python • Power BI • Statistical Modeling • Risk & Threat Analysis
 
-Business-focused analyst transforming raw data into actionable insights for performance optimization, forecasting, and risk analysis. Strong foundation in SQL analytics, dashboard development, A/B testing, regression modeling, and security-focused data assessment.
+Analytical problem-solver specializing in data-driven decision making and security-focused analytics. Experienced in SQL data extraction, predictive modeling, A/B testing, KPI engineering, and network risk assessment. Passionate about combining data intelligence with security awareness to drive measurable business impact.
 
 ---
 
-## Core Skills
-**Data Analytics:** SQL, Data Cleaning, EDA, KPI Engineering  
-**Programming:** Python (Pandas, NumPy)  
+## Core Competencies
+
+**Data Analytics:** SQL, Data Cleaning, EDA, KPI Design, Data Modeling  
+**Programming:** Python (Pandas, NumPy, Matplotlib)  
 **Statistics & ML:** Hypothesis Testing, Regression, Classification, Fraud Detection  
-**Business Intelligence:** Power BI, Excel  
-**Cybersecurity:** Vulnerability Assessment, Risk Classification  
+**Business Intelligence:** Power BI, Excel Dashboards  
+**Cybersecurity:** Vulnerability Assessment, Risk Classification, Security Analytics  
 **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## Featured Projects
-**Workforce & Compensation Intelligence (SQL)** – Advanced SQL analysis identifying salary and skill demand trends.  
-**Sales Performance Intelligence Dashboard (Power BI)** – KPI-driven revenue and segmentation insights.  
-**Fraud Detection & Risk Scoring Model (ML)** – Optimized classification model for imbalanced datasets.  
-**Network Vulnerability Assessment Tool** – Subnet scanner identifying exposed services and risk levels.
 
+**Workforce & Compensation Intelligence (SQL Analytics)**  
+Advanced SQL insights on salary trends and skill demand for strategic workforce planning.
 
+**Sales Performance Intelligence Dashboard (Power BI)**  
+Interactive dashboard delivering KPI-driven revenue and customer insights.
+
+**Fraud Detection & Risk Scoring Model (Machine Learning)**  
+Classification model optimized for imbalanced datasets with performance evaluation metrics.
+
+**Network Vulnerability Assessment Tool**  
+Subnet scanner detecting exposed services and analyzing network security risk levels.
+
+---
+
+Open to Data Analyst, Data Science, and Cybersecurity Internship Opportunities
